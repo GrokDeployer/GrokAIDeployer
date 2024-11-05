@@ -148,7 +148,7 @@ const main = async () => {
 
         console.log('Deploying token...');
         
-        /*
+        
         const createResults = await sdk.createAndBuy(
             wallet,
             mintKeypair,
@@ -167,7 +167,7 @@ const main = async () => {
         } else {
             console.error('Deployment failed:', createResults);
         }
-        */
+        
             
     } catch (error) {
         console.error('Error during execution:', error);
