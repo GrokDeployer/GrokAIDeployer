@@ -31,7 +31,3 @@ npx tsx src/index.ts
 ```
 
 The script will generate token metadata and deploy the token on the Solana blockchain. Follow the prompts in the console to proceed with the deployment.
-
-## License
-
-This project is licensed under the MIT License.
