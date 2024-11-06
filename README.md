@@ -1,6 +1,8 @@
 # Grok Token Generator
 
-This project is designed to make token creation and deployment on Solana incredibly straightforward. It harnesses the power of the new Grok API from X and OpenAI to generate a unique logo for each token, ensuring every launch has its own visual identity. After the logo is set, the PumpFun SDK steps in to handle the deployment process seamlessly on Solana. It’s a streamlined solution, giving you an efficient path from design to deployment, all while making sure your token stands out on the blockchain.
+This project is designed to make token creation and deployment on Solana incredibly straightforward. It harnesses the power of the new Grok API from X, using the new grok-beta language model and OpenAI to generate a unique logo for your token, ensuring every launch has its own visual identity. 
+
+After the logo is set, the PumpFun SDK is used to handle the deployment process. 
 
 ## Installation
 
