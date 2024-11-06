@@ -31,6 +31,8 @@ To change the initial dev buy amount, look for BUY_AMOUNT in src/index.ts and ch
 default BUY_AMOUNT=0
 ```
 
+You can change social links by replacing the default URL on lines 108-110
+
 To run the project, execute the following command:
 ```bash
 npx tsx src/index.ts
