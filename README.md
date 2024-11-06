@@ -26,6 +26,10 @@ After the logo is set, the PumpFun SDK is used to handle the deployment process.
    ```
 
 ## Usage
+To change the initial dev buy amount, look for BUY_AMOUNT in src/index.ts and change it's value to your desired buy amount.
+```bash
+default BUY_AMOUNT=0
+```
 
 To run the project, execute the following command:
 ```bash
